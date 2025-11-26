@@ -1,7 +1,7 @@
 ## 🚀 Data Analytics Portfolio 
 
-Welcome to my Data Analytics Portfolio — a curated collection of projects that reflect my journey, skills, and growth as a data-driven problem solver.
-This repository is continuously updated with new analyses, dashboards, and real-world business case studies.
+A collection of analytical projects demonstrating my skills in data cleaning, exploratory analysis, visualization, and business insight generation.
+This repository serves as a structured showcase of my learning and growth in Data Analytics.
 
 ## 📈 My Learning Goals
 
