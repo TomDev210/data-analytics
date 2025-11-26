@@ -8,4 +8,4 @@ This repository is continuously updated with new analyses, dashboards, and real-
 - Become strong in data visualization & storytelling
 - Build analytics dashboards used in real business cases
 - Gain hands-on experience in cleaning, modeling, and presenting data
-- Create a professional portfolio for placements & interviews
+
