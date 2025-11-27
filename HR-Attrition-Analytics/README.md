@@ -6,6 +6,10 @@ This project analyzes employee attrition patterns to help HR teams understand wh
 The HR Attrition dataset contains employee demographics, work-life factors, job satisfaction, salary levels, and more.  
 The goal is to identify key drivers of attrition using **data cleaning, EDA, and visualization**.
 
+<img src="Dashboard1.png" width="600">
+<br>
+<img src="Dashboard2.png" width="600">
+
 ## 🗂️ Dataset Details
 Key Columns:
 - Age, Gender, Department, JobRole  
