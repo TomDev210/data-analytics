@@ -20,10 +20,5 @@ Key Columns:
 - Converted categorical columns  
 - Standardized column names  
 
-## 🛠 Tools Used
-- Python (Pandas)  
-- Power BI  
-- Excel
-
 ## 📝 Conclusion
 This dashboard helps HR identify key risk factors and build strategies to reduce employee turnover.
