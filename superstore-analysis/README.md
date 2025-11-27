@@ -16,7 +16,7 @@ The Superstore dataset contains 3+ years of order data including:
 - Created new metrics:
   - Profit Margin
   - Order Processing Time
-  - 
+
 ## 🚀 How to Run the Project
 
 Clone the repository
