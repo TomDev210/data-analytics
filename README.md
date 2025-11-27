@@ -11,8 +11,11 @@ This repository showcases my journey as a Data Analyst. Each project includes da
 
 ## 🔥 Current Projects
 
-- 1️⃣ HR Attrition Analytics
-- 2️⃣ Superstore Sales Analysis
+## 📁 Projects
+
+- [HR Attrition Analytics](https://github.com/TomDev210/data-analytics/tree/main/HR-Attrition-Analytics)
+- [Superstore Sales Analysis](https://github.com/TomDev210/data-analytics/tree/main/Superstore-Sales-Analysis)
+
 
 ## 🛠️ Skills Demonstrated
 
