@@ -20,7 +20,7 @@ Together, these libraries help visualize booking trends, customer behavior, and 
 
 ## 📘 Jupyter Notebook & Analysis Outputs
 
-The complete analysis workflow—including preprocessing steps, exploratory insights, and all visualization results—is fully documented in the Jupyter Notebook linked below:
+The complete analysis workflow including preprocessing steps, exploratory insights, and all visualization results is fully documented in the Jupyter Notebook linked below:
 
 👉 [Hotel Booking Analysis – Jupyter Notebook](https://github.com/TomDev210/data-analytics/blob/main/Hotel%20Reservations-Analysis/Analysis.ipynb)
 
