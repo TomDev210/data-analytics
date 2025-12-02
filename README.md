@@ -14,7 +14,7 @@ This repository showcases my journey as a Data Analyst. Each project includes da
 - [HR Attrition Analytics](https://github.com/TomDev210/data-analytics/tree/main/HR-Attrition-Analytics)
 - [Superstore Sales Analysis](https://github.com/TomDev210/data-analytics/tree/main/superstore-analysis)
 - [Hotel Reservations-Analysis](https://github.com/TomDev210/data-analytics/tree/main/Hotel%20Reservations-Analysis)
-
+- [Product Recommentation System](https://github.com/TomDev210/data-analytics/tree/main/Product%20Recommentation%20System)
 
 ## 🛠️ Skills Demonstrated
 
