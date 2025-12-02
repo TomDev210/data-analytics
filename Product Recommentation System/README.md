@@ -5,10 +5,10 @@ It analyzes customer demographics, spending patterns, income levels, and product
 
 ## ⭐ Power BI Dashboard Overview
 
-[- Overview Dashboard: Shows key KPIs and overall customer spending performance.](https://github.com/TomDev210/data-analytics/blob/main/Product%20Recommentation%20System/dashboard%20Screenshort/DB1.png)
-- Demographics Dashboard: Highlights user distribution by age, gender, and income.
-- Engagement Dashboard: Displays user activity trends like login frequency and time spent.
-- Product Performance Dashboard: Shows which product categories generate the most spending.
+- [Overview Dashboard](https://github.com/TomDev210/data-analytics/blob/main/Product%20Recommentation%20System/dashboard%20Screenshort/DB1.png): Shows key KPIs and overall customer spending performance.
+- [Demographics Dashboard](https://github.com/TomDev210/data-analytics/blob/main/Product%20Recommentation%20System/dashboard%20Screenshort/DB2.png): Highlights user distribution by age, gender, and income.
+- [Engagement Dashboard](https://github.com/TomDev210/data-analytics/blob/main/Product%20Recommentation%20System/dashboard%20Screenshort/DB3.png): Displays user activity trends like login frequency and time spent.
+- [Product Performance Dashboard](https://github.com/TomDev210/data-analytics/blob/main/Product%20Recommentation%20System/dashboard%20Screenshort/DB4.png): Shows which product categories generate the most spending.
 
 ## 🔍 Key Insights
 - 👥 Ages **25–44** contribute most spending  
