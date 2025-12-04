@@ -18,7 +18,8 @@ loans.loan_id → payments.loan_id
 
 ## 📊 Dashboard  
 
-The Power BI dashboard presents a clean, executive-style view including:
+The Power BI dashboard presents a clean, executive-style view
+
 <img src="image/pic1.png" alt="Data Model Diagram" width="600">
 
 ## ▶️ How to Run  
