@@ -8,6 +8,7 @@ This project implements a full data-analytics workflow for loan portfolio manage
 ## 🖼️ Data Model Diagram   
 
 The system is built on three interrelated tables:
+<img src="pic2.png" width="600">
 
 Relationships:  
 ```
@@ -19,8 +20,7 @@ loans.loan_id → payments.loan_id
 ## 📊 Dashboard  
 
 The Power BI dashboard presents a clean, executive-style view including:
-
-
+<img src="pic1.png" width="600">
 
 ## ▶️ How to Run  
 
