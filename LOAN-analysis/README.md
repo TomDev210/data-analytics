@@ -8,6 +8,7 @@ This project implements a full data-analytics workflow for loan portfolio manage
 ## 🖼️ Data Model Diagram   
 
 The system is built on three interrelated tables:
+
 <img src="image/pic2.png" alt="Data Model Diagram" width="600">
 
 Relationships:  
